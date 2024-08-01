@@ -1,0 +1,40 @@
+{
+  "Employee": [
+    {
+      "id": "d335",
+      "url": "Ellipse -4.png",
+      "name": "Mayank Kumar",
+      "gender": "Male",
+      "department": "Finance",
+      "salary": "₹ 30,000",
+      "startDate": "18/8/2018"
+    },
+    {
+      "id": "3161",
+      "url": "Ellipse -8.png",
+      "name": "Rohith Roy",
+      "gender": "Male",
+      "department": "Others",
+      "salary": "₹ 50,000",
+      "startDate": "19/9/2017"
+    },
+    {
+      "id": "300f",
+      "url": "Ellipse -7.png",
+      "name": "Sneha Kumar",
+      "gender": "Female",
+      "department": "HR",
+      "salary": "₹ 50,000",
+      "startDate": "2/1/2021"
+    },
+    {
+      "id": "ee0d",
+      "url": "Ellipse -5.png",
+      "name": "Sindhu Gupta",
+      "gender": "Female",
+      "department": "Finance",
+      "salary": "₹ 50,000",
+      "startDate": "4/6/2021"
+    }
+  ]
+}
